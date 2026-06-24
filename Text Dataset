@@ -1,0 +1,11 @@
+reviews = [
+    "Good product",
+    "Excellent quality",
+    "Average item"
+]
+total_reviews=len(reviews)
+first_review=reviews[0]
+first_review_length=len(first_review)
+print(f"Total Reviews: {total_reviews}")
+print(f"First Review: {first_review}")
+print(f"Length of First Review: {first_review_length}")
