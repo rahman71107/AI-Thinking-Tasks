@@ -1,0 +1,4 @@
+name = "Aman"
+age = 20
+city = "Delhi"
+print(f"I am {name},and I am {age} years old.I am from {city}")
