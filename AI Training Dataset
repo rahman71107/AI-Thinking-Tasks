@@ -1,0 +1,7 @@
+animals = ["cat", "dog", "lion", "tiger", "elephant"]
+total_samples=len(animals)
+print(f"Number of samples: {total_samples}")
+first_sample=animals[0]
+last_sample=animals[len(animals)-1]
+print(f"The First Sample: {first_sample}")
+print(f"The Last Sample: {last_sample}")
